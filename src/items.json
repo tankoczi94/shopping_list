@@ -1,0 +1,30 @@
+{
+  "Alcoholic bevarage" : {
+    "id": 1,
+    "items": {
+      "beer": {
+        "id" : 1,
+        "price" : 200,
+        "shortDesc" : "Very nice beer",
+        "brand" : "Soproni"
+      },
+      "wine": {
+        "id" : 1,
+        "price" : 800,
+        "shortDesc" : "Very nice wine",
+        "brand" : "Debrői"
+      }
+    }
+  },
+  "Milk products" : {
+    "id" : 2,
+    "items" : {
+      "túró": {
+        "id": 1,
+        "price" : 300,
+        "shortDesc" : "Very nice túró",
+        "brand" : "Nádudvari"
+      }
+    }
+  }
+}

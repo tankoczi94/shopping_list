@@ -1,4 +1,5 @@
 p {
-  font-family: fantasy;
-  color: beige
+  color: beige;
+  position: absolute;
+  margin-top: 2rem;
 }
